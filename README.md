@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm kelton-glitch 👋
 
-<!--
-**kelton-glitch/kelton-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning Javascript (ReactJS) and Dart
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+- ⚡ Fun fact: I love music and play musical instruments
+
+
+
+![Kelton's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelton-glitch&show_icons=true&theme=cobalt&count_private=true&show_icons=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kelton-glitch&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
