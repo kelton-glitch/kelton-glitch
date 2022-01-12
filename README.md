@@ -13,7 +13,7 @@
 [![Mail Badge](https://img.shields.io/badge/-@kelton194-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://instagram.com/kelton194)
 
 
-### Global Stats (OpenSource activity)
+<!--### Global Stats (OpenSource activity)-->
 <p>
     <img width="600"  
          src="https://metrics.lecoq.io/kelton-glitch?id=kelton-glitch" 
