@@ -4,7 +4,7 @@
 
 - ⚡ Fun fact: I love music and play musical instruments
 
-#### 📫 How to reach me: ...
+#### 📫 How to reach me: 
 
 
 [![Mail Badge](https://img.shields.io/badge/-kelton-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kamgoelton89@gmail.com)
