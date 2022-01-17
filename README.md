@@ -1,6 +1,6 @@
 ### Hi, I'm <a href="https://github.com/kelton-glitch">Kelton-glitch</a> 👋
 
-- 🌱 I’m currently learning Javascript (ReactJS) and Dart
+- 🌱 I’m currently learning Javascript(ReactJS) and Dart
 
 - ⚡ Fun fact: I love music and play musical instruments
 
