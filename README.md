@@ -4,8 +4,6 @@
 
 - ⚡ Fun fact: I love music and play musical instruments
 
-- 👯 I’m looking to collaborate on mini-projects 
-
 
 #### 📫 How to reach me: 
 
