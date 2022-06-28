@@ -10,7 +10,6 @@
 
 [![Mail Badge](https://img.shields.io/badge/-kelton-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kamgoelton89@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@kelton194-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kelton194)](https://twitter.com/kelton194/) 
-[![Mail Badge](https://img.shields.io/badge/-@kelton194-405DE6?style=flat&labelColor=5851DB&logo=instagram&logoColor=white)](https://instagram.com/kelton194)
 
 
 <!--### Global Stats (OpenSource activity)-->
