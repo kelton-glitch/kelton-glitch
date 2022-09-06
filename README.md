@@ -20,7 +20,4 @@
     />
 </p>
 
-<!--[Kelton's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelton-glitch&show_icons=true&theme=cobalt&count_private=true&show_icons=true)-->
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelton-glitch&theme=cobalt" /> | <img src="https://github-readme-stats.vercel.app/api?username=kelton-glitch&show_icons=true&theme=cobalt" alt="kelton-glitch" /> |
-| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelton-glitch&langs_count=20&layout=compact&theme=midnight-purple&align=right&width=100%&hide_border=true)](https://github.com/kelton-glitch/github-readme-stats)
