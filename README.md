@@ -19,5 +19,3 @@
          alt="Kelton's Github Metrics"
     />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelton-glitch&langs_count=20&layout=compact&theme=midnight-purple&align=right&width=100%&hide_border=true)](https://github.com/kelton-glitch/github-readme-stats)
