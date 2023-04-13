@@ -19,6 +19,7 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelton-glitch&langs_count=20&layout=compact&theme=midnight-purple&align=right&width=100%&hide_border=true)](https://github.com/kelton-glitch/github-readme-stats)
 
 #### 📫 How to reach me: 
 
