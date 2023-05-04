@@ -24,5 +24,9 @@
 #### 📫 How to reach me: 
 
 
-[![Mail Badge](https://img.shields.io/badge/-kelton-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kamgoelton89@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@kelton194-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kelton194)](https://twitter.com/kelton194/) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kelton194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kelton194" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elton-kamgo-njomo-89ba66210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elton kamgo njomo" height="30" width="40" /></a>
+<a href="https://instagram.com/kelton194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kelton194" height="30" width="40" /></a>
+
